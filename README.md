@@ -7,8 +7,6 @@ This paper proposes a method for geological mapping using deep learning . We are
 * tdqm
 * cuda 11.2
 # Usage
-1. Trainng
-            python tarin.py
-2. Inference 
-            python test.py
+1. Trainng: python tarin.py
+2. Inference: python test.py
      
